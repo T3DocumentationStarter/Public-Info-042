@@ -34,9 +34,8 @@ My Public Info Project
 :Writing here:    Ralf Zimmermann
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
-:Others:          `overview <..>`__
-
-
+:Others:          `folder overview <..>`__
+:Others:          `list of 'heros' <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/>`__
 .. _Martin: martin.bless@mbless.de
 
 
